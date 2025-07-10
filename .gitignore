@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# Build outputs
+/dist/
+/build/
+/out/
+
+# Cache
+.cache/
+.vscode/.*
+*.log
+
+# Electron specific
+*.asar
+*.tsbuildinfo
+
+# Platform-specific artifacts
+*.exe
+*.app
+*.dmg
+
+# VS Code settings (optional)
+.vscode/
+
+# Optional: Linux generated files
+*.snap
+*.AppImage
+
+# Misc
+*.orig
+*.swp
+*.swo
